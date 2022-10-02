@@ -1,0 +1,8 @@
+bits:31
+modulus:1073741827
+peers:3
+threshold:1
+inputs:1
+outputs:1
+I:1,a,int,1,1,30
+I:1,b,int,1,1,30

@@ -6,6 +6,23 @@ MULTSIZE=(1 10 100 1000 10000 100000)
 MULTREP=(1000 1000 1000 100 100 100)
 
 
+CBITOP="./bitop $1 runtime-config-$2 private-$1.pem 1 1 fakeinput out "
+
+for i in {0..5}
+do
+    for k in {1..2}
+    do
+        echo "COMMAND: $CBITOP ${MULTSIZE[$i]} ${MULTREP[$i]}"
+        eval "$CBITOP ${MULTSIZE[$i]} ${MULTREP[$i]}"
+        sleep ${SLEEPTIME[$1]}
+		if [ "$1" = 1 ]
+		then
+		    touch flag.txt
+		fi
+   done
+done
+
+
 for i in {0..5}
 do
     for k in {1..2}
@@ -52,18 +69,4 @@ do
    done
 done
 
-CBITOP="./bitop $1 runtime-config-$2 private-$1.pem 1 1 fakeinput out "
 
-for i in {0..6}
-do
-    for k in {1..2}
-    do
-        echo "COMMAND: $CBITOP ${MULTSIZE[$i]} ${MULTREP[$i]}"
-        eval "$CBITOP ${MULTSIZE[$i]} ${MULTREP[$i]}"
-        sleep ${SLEEPTIME[$1]}
-		if [ "$1" = 1 ]
-		then
-		    touch flag.txt
-		fi
-   done
-done

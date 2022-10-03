@@ -1,12 +1,12 @@
 SLEEPTIME=(6 4 2 0)
 
-CMULT="./add $1 runtime-config-$2 private-1.pem 1 1 fakeinput out "
+CMULT="./add $1 runtime-config-$2 private-$1.pem 1 1 fakeinput out "
 
 MULTSIZE=(1 10 100 1000 10000 100000)
 MULTREP=(1000 1000 1000 100 100 100)
 
 
-for i in {0..6}
+for i in {0..5}
 do
     for k in {1..2}
     do
@@ -20,9 +20,9 @@ do
    done
 done
 
-CEQZ="./eqz $1 runtime-config-$2 private-1.pem 1 1 fakeinput out "
+CEQZ="./eqz $1 runtime-config-$2 private-$1.pem 1 1 fakeinput out "
 
-for i in {0..6}
+for i in {0..5}
 do
     for k in {1..2}
     do
@@ -36,7 +36,7 @@ do
    done
 done
 
-CLTZ="./ltz $1 runtime-config-$2 private-1.pem 1 1 fakeinput out "
+CLTZ="./ltz $1 runtime-config-$2 private-$1.pem 1 1 fakeinput out "
 
 for i in {0..6}
 do
@@ -52,7 +52,7 @@ do
    done
 done
 
-CBITOP="./bitop $1 runtime-config-$2 private-1.pem 1 1 fakeinput out "
+CBITOP="./bitop $1 runtime-config-$2 private-$1.pem 1 1 fakeinput out "
 
 for i in {0..6}
 do

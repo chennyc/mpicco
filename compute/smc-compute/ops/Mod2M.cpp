@@ -34,7 +34,7 @@ Mod2M::Mod2M(NodeNetwork nodeNet, std::map<std::string, std::vector<int> > poly,
 
 Mod2M::Mod2M(NodeNetwork nodeNet, std::map<std::string, std::vector<int> > poly, int nodeID, SecretShare *s, mpz_t coeficients[], MaliciousSMC *malicious){
     ss = s;
-	//B = new BitLTC(nodeNet,poly,nodeID,s,coeficients);
+	B = new BitLTC(nodeNet,poly,nodeID,s,coeficients);
 	net = nodeNet;
 	polynomials = poly;
 	ms = malicious;

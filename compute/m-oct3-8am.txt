@@ -1,0 +1,176 @@
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start add
+total time of 32 add per run= 2195 us
+verification time per run = 831 us
+start lt
+total time of 32 lt per run = 1748 us
+verification time per run = 726 us
+start eq
+total time of 32 eq per run = 1374 us
+verification time per run = 649 us
+total verification time is 2206155 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 5.3236
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start add
+total time of 32 add per run= 2311 us
+verification time per run = 870 us
+start lt
+total time of 32 lt per run = 1772 us
+verification time per run = 717 us
+start eq
+total time of 32 eq per run = 1343 us
+verification time per run = 620 us
+total verification time is 2207431 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 5.43
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start add
+total time of 32 add per run= 13165 us
+verification time per run = 3172 us
+start lt
+total time of 32 lt per run = 10347 us
+verification time per run = 2490 us
+start eq
+total time of 32 eq per run = 6076 us
+verification time per run = 1709 us
+total verification time is 7371747 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 29.6003
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start add
+total time of 32 add per run= 13414 us
+verification time per run = 3238 us
+start lt
+total time of 32 lt per run = 10561 us
+verification time per run = 2517 us
+start eq
+total time of 32 eq per run = 6385 us
+verification time per run = 1796 us
+total verification time is 7551160 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 30.37
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start add
+total time of 32 add per run= 104154 us
+verification time per run = 19992 us
+start lt
+total time of 32 lt per run = 81679 us
+verification time per run = 15059 us
+start eq
+total time of 32 eq per run = 42514 us
+verification time per run = 10638 us
+total verification time is 45688963 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 228.36
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start add
+total time of 32 add per run= 105328 us
+verification time per run = 20183 us
+start lt
+total time of 32 lt per run = 85498 us
+verification time per run = 15801 us
+start eq
+total time of 32 eq per run = 42703 us
+verification time per run = 10771 us
+total verification time is 46754399 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 233.54
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start add
+--Need more space 
+--Need more space 
+--Need more space 
+total time of 32 add per run= 1033607 us
+verification time per run = 187064 us
+start lt
+total time of 32 lt per run = 697087 us
+verification time per run = 124440 us
+start eq
+total time of 32 eq per run = 367743 us
+verification time per run = 75437 us
+total verification time is 38693995 us
+Need to clean 20 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 209.881
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start add
+--Need more space 
+--Need more space 
+--Need more space 
+total time of 32 add per run= 1027311 us
+verification time per run = 187033 us
+start lt
+total time of 32 lt per run = 707517 us
+verification time per run = 125744 us
+start eq
+total time of 32 eq per run = 383819 us
+verification time per run = 78770 us
+total verification time is 39154403 us
+Need to clean 20 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 211.903
+COMMAND: ./bitop_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10000 100

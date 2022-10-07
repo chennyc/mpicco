@@ -86,7 +86,7 @@ int  __original_main(int _argc_ignored, char **_argv_ignored)
   gettimeofday(&start,NULL); //start timer here                              
   for(int i = 0; i < rep; i++){
     //__s->smc_leq(A, B, 32, 32, C, 32, S, "int", -1);
-    // __s->smc_mult(A, B, 30, 30, C, 30, S, "int", -1);
+    __s->smc_mult(A, B, 30, 30, C, 30, S, "int", -1);
 
     __s->smc_dot(A, B, S, C[0], -1);
   }

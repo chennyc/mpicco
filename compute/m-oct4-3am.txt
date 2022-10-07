@@ -1,0 +1,563 @@
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1000 iterations of 1 add per run = 591 us
+total time of 1000 iterations of 1 mult per run = 623 us
+total verification time is 1121479 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 1.22898
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1000 iterations of 1 add per run = 563 us
+total time of 1000 iterations of 1 mult per run = 656 us
+total verification time is 1148687 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 1.2238
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1000 iterations of 10 add per run = 599 us
+total time of 1000 iterations of 10 mult per run = 721 us
+total verification time is 1169746 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 1.32559
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1000 iterations of 10 add per run = 525 us
+total time of 1000 iterations of 10 mult per run = 713 us
+total verification time is 1139619 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 1.24368
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1000 iterations of 100 add per run = 601 us
+total time of 1000 iterations of 100 mult per run = 1223 us
+total verification time is 1328610 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 1.8293
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1000 iterations of 100 add per run = 593 us
+total time of 1000 iterations of 100 mult per run = 1227 us
+total verification time is 1325451 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 1.82592
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 100 iterations of 1000 add per run = 879 us
+total time of 100 iterations of 1000 mult per run = 6018 us
+total verification time is 275931 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 0.701962
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 100 iterations of 1000 add per run = 800 us
+total time of 100 iterations of 1000 mult per run = 6382 us
+total verification time is 270013 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 0.73069
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 100 iterations of 10000 add per run = 2082 us
+total time of 100 iterations of 10000 mult per run = 47793 us
+total verification time is 1029500 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 5.07999
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 100 iterations of 10000 add per run = 1954 us
+total time of 100 iterations of 10000 mult per run = 48308 us
+total verification time is 1069370 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 5.10429
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100000 10
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+--Need more space 
+total time of 10 iterations of 100000 add per run = 28120 us
+total time of 10 iterations of 100000 mult per run = 477990 us
+total verification time is 1134252 us
+Need to clean 20 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 5.82874
+COMMAND: ./add_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100000 10
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+--Need more space 
+total time of 10 iterations of 100000 add per run = 27345 us
+total time of 10 iterations of 100000 mult per run = 466975 us
+total verification time is 1037216 us
+Need to clean 20 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 5.68807
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 2570805 us
+total verification time is 779457 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 2.57269
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 2635315 us
+total verification time is 798321 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 2.63756
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 9267445 us
+total verification time is 1556941 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 9.27369
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 9429835 us
+total verification time is 1642282 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 9.43199
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 67891810 us
+total verification time is 7646288 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 67.8968
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 68526069 us
+total verification time is 7878524 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 68.5296
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 100 times of eqz = 66953524 us
+total verification time is 6511325 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 66.9648
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 100 times of eqz = 64590164 us
+total verification time is 7152938 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 64.6014
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+--Need more space 
+--Need more space 
+--Need more space 
+runtime for 100 times of eqz = 613655595 us
+total verification time is 60316111 us
+Need to clean 75 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 613.735
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+--Need more space 
+--Need more space 
+--Need more space 
+runtime for 100 times of eqz = 614035627 us
+total verification time is 63516080 us
+Need to clean 75 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 614.116
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100000 10
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+--Need more space 
+--Need more space 
+--Need more space 
+runtime for 10 times of eqz = 608228612 us
+total verification time is 59416945 us
+Need to clean 741 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 609.025
+COMMAND: ./eqz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100000 10
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+--Need more space 
+--Need more space 
+--Need more space 
+runtime for 10 times of eqz = 608632961 us
+total verification time is 59794451 us
+Need to clean 741 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 609.472
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 4157105 us
+total verification time is 1535480 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 4.15939
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 4228421 us
+total verification time is 1569215 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 4.23022
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 13539703 us
+total verification time is 3003795 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 13.5437
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 13455641 us
+total verification time is 3216715 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 13.4578
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 86473767 us
+total verification time is 11735242 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 86.4771
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 1000 times of eqz = 86978485 us
+total verification time is 11778130 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 86.9823
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 100 times of eqz = 82602320 us
+total verification time is 9172028 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 82.6104
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+runtime for 100 times of eqz = 84240226 us
+total verification time is 11045756 us
+Need to clean 10 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 84.2486
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+--Need more space 
+--Need more space 
+--Need more space 
+runtime for 100 times of eqz = 795917382 us
+total verification time is 81809820 us
+Need to clean 68 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 795.964
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+Start computation 
+input a, 16
+input b
+start 
+--Need more space 
+--Need more space 
+--Need more space 
+runtime for 100 times of eqz = 796567572 us
+total verification time is 82826161 us
+Need to clean 68 rows 
+Exit Malicious Mode
+Cleaned malicious buffer
+Time: 796.61
+COMMAND: ./ltz_mal 3 runtime-config-02 private-3.pem 1 1 fakeinput out  100000 10

@@ -1,0 +1,400 @@
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1 add per run= 0 us
+total time of 1 mult per run= 90 us
+Time: 0.091021
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1 add per run= 0 us
+total time of 1 mult per run= 106 us
+Time: 0.107043
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 10 add per run= 0 us
+total time of 10 mult per run= 105 us
+Time: 0.106192
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 10 add per run= 0 us
+total time of 10 mult per run= 103 us
+Time: 0.103782
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 100 add per run= 4 us
+total time of 100 mult per run= 237 us
+Time: 0.243148
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 100 add per run= 4 us
+total time of 100 mult per run= 210 us
+Time: 0.216026
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1000 add per run= 50 us
+total time of 1000 mult per run= 1597 us
+Time: 0.166781
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 1000 add per run= 49 us
+total time of 1000 mult per run= 1635 us
+Time: 0.171573
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 10000 add per run= 491 us
+total time of 10000 mult per run= 11026 us
+Time: 1.17983
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 10000 add per run= 509 us
+total time of 10000 mult per run= 9963 us
+Time: 1.06774
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 100000 add per run= 4088 us
+total time of 100000 mult per run= 102088 us
+Time: 10.8156
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+total time of 100000 add per run= 3768 us
+total time of 100000 mult per run= 102494 us
+Time: 10.8235
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out   
+COMMAND: ./add 3 runtime-config-02 private-1.pem 1 1 fakeinput out   
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 1127284 us
+Time: 1.12733
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 1149929 us
+Time: 1.14998
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 3181475 us
+Time: 3.18153
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 3058164 us
+Time: 3.05825
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 19138120 us
+Time: 19.1383
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 20231659 us
+Time: 20.2318
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 17190713 us
+Time: 17.1913
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 17123024 us
+Time: 17.1236
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 168062397 us
+Time: 168.067
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 167368583 us
+Time: 167.374
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 1663495119 us
+Time: 1663.54
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+here
+runtime for eqz = 1656405486 us
+Time: 1656.45
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out   
+COMMAND: ./eqz 3 runtime-config-02 private-1.pem 1 1 fakeinput out   
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1 1000
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1 1000
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10 1000
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10 1000
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100 1000
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100 1000
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1000 100
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1000 100
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10000 100
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10000 100
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100000 100
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100000 100
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out   
+COMMAND: ./ltz 3 runtime-config-02 private-1.pem 1 1 fakeinput out   
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 660 us
+start lt
+total time of 32 lt per run = 557 us
+start eq
+total time of 32 eq per run = 498 us
+Time: 1.71711
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 661 us
+start lt
+total time of 32 lt per run = 586 us
+start eq
+total time of 32 eq per run = 471 us
+Time: 1.72062
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 2903 us
+start lt
+total time of 32 lt per run = 2208 us
+start eq
+total time of 32 eq per run = 1463 us
+Time: 6.57572
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 2676 us
+start lt
+total time of 32 lt per run = 2219 us
+start eq
+total time of 32 eq per run = 1403 us
+Time: 6.2995
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 19547 us
+start lt
+total time of 32 lt per run = 16694 us
+start eq
+total time of 32 eq per run = 11266 us
+Time: 47.5102
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100 1000
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 19370 us
+start lt
+total time of 32 lt per run = 16590 us
+start eq
+total time of 32 eq per run = 10893 us
+Time: 46.8553
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 170582 us
+start lt
+total time of 32 lt per run = 123431 us
+start eq
+total time of 32 eq per run = 68661 us
+Time: 36.2777
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  1000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 168474 us
+start lt
+total time of 32 lt per run = 123735 us
+start eq
+total time of 32 eq per run = 65175 us
+Time: 35.7486
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 1913629 us
+start lt
+total time of 32 lt per run = 1271065 us
+start eq
+total time of 32 eq per run = 666232 us
+Time: 385.18
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  10000 100
+SMC_Utils constructor
+Creating the NodeNetwork
+Created the NodeNetwork
+Client connected
+Created the files
+Hello Malicious Mode
+start mul
+total time of 32 mult per run= 1900168 us
+start lt
+total time of 32 lt per run = 1269007 us
+start eq
+total time of 32 eq per run = 675174 us
+Time: 384.518
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100000 100
+COMMAND: ./bitop 3 runtime-config-02 private-1.pem 1 1 fakeinput out  100000 100

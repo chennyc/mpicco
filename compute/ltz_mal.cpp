@@ -82,10 +82,12 @@ int  __original_main(int _argc_ignored, char **_argv_ignored)
 
 
 
-  printf("input a, %d\n", sizeof(mpz_t));
-  __s->smc_input_mal(1, a, 1, 32, "int", -1);
-  printf("input b\n");
-  __s->smc_input_mal(1, b, 1, 32, "int", -1);
+  //printf("input a, %d\n", sizeof(mpz_t));
+  //__s->smc_input_mal(1, a, 1, 32, "int", -1);
+  //printf("input b\n");
+  //__s->smc_input_mal(1, b, 1, 32, "int", -1);
+  mpz_set_ui(a[0], 738247);
+  mpz_set_ui(b[0], 4387934);
   i = 0;
   for ( ;i < S; )
     {
@@ -109,10 +111,11 @@ int  __original_main(int _argc_ignored, char **_argv_ignored)
   gettimeofday(&start,NULL); //start timer here                                                                                 
   printf("start \n");
   for(int i = 0; i < rep; i++){
+    __s->smc_input_Onlymul(A, 2, S, 32, "int", -1);
     //printf("%d th start \n", i);
     //__s->smc_leq_mal(A, B, 32, 32, C, 32, S, "int", -1);
     __s->smc_mult_mal(A, B, 32, 32, C, 32, S, "int", -1);
-    __s->smc_mult_mal(A, B, 32, 32, C, 32, S, "int", -1);
+    __s->smc_mult_mal(A, B, 32, 32, C, 32, 1, "int", -1);
     __s->smc_verify();
   }
     

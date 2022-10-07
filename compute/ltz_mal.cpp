@@ -110,7 +110,10 @@ int  __original_main(int _argc_ignored, char **_argv_ignored)
   printf("start \n");
   for(int i = 0; i < rep; i++){
     //printf("%d th start \n", i);
-    __s->smc_leq_mal(A, B, 32, 32, C, 32, S, "int", -1);
+    //__s->smc_leq_mal(A, B, 32, 32, C, 32, S, "int", -1);
+    __s->smc_mult_mal(A, B, 32, 32, C, 32, S, "int", -1);
+    __s->smc_mult_mal(A, B, 32, 32, C, 32, S, "int", -1);
+    __s->smc_verify();
   }
     
   gettimeofday(&end,NULL);//stop timer here p1                                                                                  
